@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohi Uddin Ahmed @akankha
-- 👀 I’m interested in web technologies
+- 👀 I’m interested in php, laravel , tailwind css , react js, aws and others  
 - 🌱 I’m currently learning recact , vue and phython 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akankha.ahmed@gmail.com
