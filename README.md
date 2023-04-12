@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there 👋
 
-I'm Mohi Uddin Ahmed @akankha, a passionate Software Developer from :canada:. Welcome to my GitHub profile!
+I'm Mohi Uddin Ahmed @akankha, a passionate Software Developer from 🇨🇦,🇧🇩:. Welcome to my GitHub profile!
 
 ## 🔭 Current Focus
 
