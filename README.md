@@ -12,7 +12,6 @@ I'm Mohi Uddin Ahmed @akankha, a passionate Software Developer from 🇨🇦,�
 
 Currently, I'm working on:
 
-- [50 Js Projects 50 Days]([link to project](https://github.com/akankha/js50dayschallange))
 
 ## 🌱 I'm Learning
 
